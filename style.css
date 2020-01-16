@@ -3,16 +3,24 @@ body {
 }
 
 
-
 ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  width: 60px;
+  background-color: #655c56;
+  margin-top: 20px;
+  border-bottom: 5px solid #655c56;
+  word-spacing: 5px;
 }
-
+li {
+  display: inline-block;
+  border: 4px solid #655c56;
+  text-align: center;
+}
 li a {
-  display: block;
-  background-color: #655C56 ;
-
+  text-decoration: none;
+  color: ghostwhite;
+  font-size: 30px
+}
+li a:hover{
+  background-color: #655c56;
+  padding-top: 10px;
+  padding-bottom: 13px;
 }
