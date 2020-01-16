@@ -25,3 +25,7 @@ li a:hover{
   padding-top: 10px;
   padding-bottom: 13px;
 }
+
+h1, p {
+  border: 4px solid gray;
+}
