@@ -5,6 +5,7 @@ body {
 ul {
   background-color: #655c56;
   margin-top: 20px;
+  margin-left: 1000px;
   border-bottom: 5px solid #655c56;
   word-spacing: 5px;
 }
