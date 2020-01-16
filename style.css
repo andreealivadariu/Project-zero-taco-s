@@ -26,11 +26,6 @@ li a:hover{
   padding-bottom: 13px;
 }
 
-a:visited {
-  color: lightgrey;
-
-}
-li.actief{
-
-  background-color: #665b57;
+h1, p {
+  border: 4px solid gray;
 }
