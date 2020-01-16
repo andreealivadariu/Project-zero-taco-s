@@ -25,3 +25,12 @@ li a:hover{
   padding-top: 10px;
   padding-bottom: 13px;
 }
+
+a:visited {
+  color: lightgrey;
+
+}
+li.actief{
+
+  background-color: #665b57;
+}
