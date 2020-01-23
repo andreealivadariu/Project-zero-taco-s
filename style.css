@@ -33,6 +33,7 @@ li a:hover{
 
 h1, p {
   border: 4px solid gray;
+  padding: 3px
 }
 
 .actief {
