@@ -5,11 +5,12 @@ body {
 ul {
   background-color: #655c56;
   margin-top: 20px;
-  margin-left: 100px;
+  margin-left: 0px;
   border-bottom: 5px solid #655c56;
   word-spacing: 5px;
   height: 35px;
   display: flex;
+  padding: 0px;
 }
 li {
   display: inline-block;
