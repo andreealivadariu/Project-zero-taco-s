@@ -31,8 +31,9 @@ li a:hover{
   padding-bottom: 13px;
 }
 
-h1, p {
+h1, p , h2 {
   border: 4px solid gray;
+  padding: 3px
 }
 
 .actief {
