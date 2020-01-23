@@ -8,17 +8,21 @@ ul {
   margin-left: 100px;
   border-bottom: 5px solid #655c56;
   word-spacing: 5px;
+  height: 35px;
+  display: flex;
 }
 li {
   display: inline-block;
+
   border: 4px solid #655c56;
-  text-align: center;
+
+  /*text-align: center;*/
 
 }
 li a {
   text-decoration: none;
   color: ghostwhite;
-  font-size: 30px
+  font-size: 30px;
 }
 li a:hover{
   background-color: #655c56;
@@ -28,4 +32,18 @@ li a:hover{
 
 h1, p {
   border: 4px solid gray;
+}
+
+.actief {
+background-color: #7a746f;
+}
+
+img {
+  top: 20px;
+  left: 50px;
+}
+
+.Navbar{
+display: flex;
+justify-content: flex-start;
 }
