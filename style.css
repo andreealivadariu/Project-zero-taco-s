@@ -9,13 +9,14 @@ body {
 
 ul {
   background-color: #655c56;
-  margin-top: 20px;
-  margin-left: 0px;
+  margin-top: 15px;
+  margin-left: 10px;
   border-bottom: 5px solid #655c56;
-  word-spacing: 5px;
+  word-spacing: 50px;
   height: 35px;
   display: flex;
   padding: 0px;
+  /*word-spacing: px;*/
 }
 li {
   display: inline-block;
